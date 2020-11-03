@@ -1,2 +1,4 @@
 # leetcode
-leetcode in c
+leetcode with c
+
+C is the best programming lamguage in this universe.
