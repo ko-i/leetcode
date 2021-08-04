@@ -1,6 +1,6 @@
 # leetcode
-leetcode with c
+leetcode with c & rust
 
-C is the best programming lamguage in this universe.
+c & rust is the best programming lamguage in this universe.
 
 I am playing with some interesting programing technique, leaving temporarily
